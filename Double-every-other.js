@@ -21,3 +21,5 @@ function doubleEveryOther(a) {
   }
   return arr;
 }
+
+// or
