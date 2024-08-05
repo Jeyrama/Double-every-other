@@ -13,3 +13,11 @@ Example:
 
 
 // Solution
+
+function doubleEveryOther(a) {
+  let arr = a;
+  for (let i = 1; i < arr.length; i+=2) {
+    arr[i] = arr[i]*2;
+  }
+  return arr;
+}
