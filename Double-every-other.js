@@ -23,3 +23,6 @@ function doubleEveryOther(a) {
 }
 
 // or
+
+const doubleEveryOther = a => 
+  a.map((val, idx) => val * (idx % 2 + 1));
