@@ -10,3 +10,6 @@ Example:
   output:
   [1,4,3,8]
 */
+
+
+// Solution
